@@ -4,6 +4,7 @@ Download list of torrents using V2 API from YTS
 ## Requirements
 1. Python 3.x (tested on 3.8) for getting download list of torrents
 2. Wget for downloading .torrent from URL
+3. nested-lookup (pip3 install nested-lookup)
 
 ## Steps
 1. Run main.py to generate list of downloads
