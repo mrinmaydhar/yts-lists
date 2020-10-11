@@ -6,7 +6,7 @@ Download list of torrents using V2 API from YTS
 2. Wget for downloading .torrent from URL
 
 ## Steps
-1. Run main.py
+1. Run main.py to generate list of downloads
 2. [Run](https://stackoverflow.com/a/52916930/5726675)
     ```console
     foo@bar:~$ wget --content-disposition --no-clobber --trust-server-names -i yts.txt
