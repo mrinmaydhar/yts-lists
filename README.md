@@ -8,9 +8,9 @@ Download list of torrents using V2 API from YTS
 ## Steps
 1. Run main.py
 2. [Run](https://stackoverflow.com/a/52916930/5726675)
-```console
-foo@bar:~$ wget --content-disposition --no-clobber --trust-server-names -i yts.txt
-```
+    ```console
+    foo@bar:~$ wget --content-disposition --no-clobber --trust-server-names -i yts.txt
+    ```
 
 ## TODO
 + Use python scripting for automation
