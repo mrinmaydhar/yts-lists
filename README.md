@@ -13,7 +13,7 @@ Download torrents from YTS using their V2 API
 + ~~Use cross platform alternative to Wget (or implement Invoke-WebRequest for powershell)~~
 + Add user input options for preferred file type
 + Better file naming system, rather than relying on Hash of torrent file.
-+ Enhance performance if possible (file I/O may cause performance degradation?
++ Enhance performance if possible (file I/O may cause performance degradation?)
 + Show better progress meters
 + Implement Command line scripting for automation
 + Optimize imports?
