@@ -1,5 +1,5 @@
 # yts-lists
-Download list of torrents using V2 API from YTS
+Download torrents from YTS using their V2 API
 
 ## Requirements
 1. Python 3.x (tested on 3.8) for getting download list of torrents
